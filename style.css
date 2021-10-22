@@ -123,6 +123,7 @@ p {
 }
 
 /* media query */
+/* laptops */
 @media screen and (max-width: 1160px) {
   h1 {
     font-size: 1.8rem;
@@ -146,6 +147,7 @@ p {
   }
 }
 
+/* tablets */
 @media screen and (max-width: 700px) {
   #page-wrapper {
     width: 90%;
@@ -176,6 +178,7 @@ p {
   }
 }
 
+/* small mobile devices */
 @media screen and (max-width: 394px) {
   #stats-section {
     flex-direction: column;
