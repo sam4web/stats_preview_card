@@ -16,7 +16,7 @@ html {
 }
 
 *,
-*::backdrop,
+*::before,
 *::after {
   box-sizing: inherit;
 }
